@@ -1,6 +1,7 @@
 ---
-title: Roblox Studio setup
-description: Explains how to install Roblox Studio on your system.
+title: Racing sim
+
+description: Come to play racing sim we have fub things to do come on down and play racing sim
 ---
 
 Create immersive 3D experiences on Roblox with **Roblox Studio**, a free application available on Windows and Mac.
