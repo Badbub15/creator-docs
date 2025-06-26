@@ -1,4 +1,4 @@
-name: Triage
+name: Roller skates
 on:
   # https://docs.github.com/en/actions/using-workflows/events-that-trigger-workflows#pull_request_target
   # All event types
